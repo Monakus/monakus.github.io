@@ -1,0 +1,136 @@
+body{
+	background-image: url("img/tlo.jpg");
+	padding: 0;
+	margin: 0;
+	color: white;
+	font-family: 'Caveat Brush', cursive;
+}
+
+#logo{
+	text-align: center;
+	font-size: 200px;
+	background-color: rgba(0,0,0,0.8);
+	font-family: 'Cabin Sketch', cursive;
+}
+
+#logo a{
+	text-decoration: none;
+	color: white;
+}
+
+#logo a:visited{
+	text-decoration: none;
+	color: white;
+}
+
+#menu{
+	width: 100%;
+	background-color: rgba(255,255,255,0.8);
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	height: 80px;
+}
+
+#content{
+	width: 978px;
+	background-color: rgba(0,0,0,0.8);
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	border-radius: 25px;
+	padding: 11px 30px;
+	font-size: 30px;
+	min-height: 612px;
+}
+
+#kontakt{
+	width: 978px;
+	background-color: rgba(0,0,0,0.8);
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	border-radius: 25px;
+	padding: 11px 30px;
+	font-size: 30px;
+	min-height: 612px;
+}
+
+#tymczasowagaleria{
+	width: 978px;
+	background-color: rgba(0,0,0,0.8);
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border-radius: 25px;
+	padding: 11px 30px;
+	font-size: 100px;
+	min-height: 612px;
+	line-height: 130%;
+}
+
+#footer{
+	width: 100%;
+	background-color: rgba(255,255,255,0.8);
+	text-align: center;
+	font-size: 20px;
+	color: black;
+	padding: 5px 0;
+}
+
+ol{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	font-size: 35px;
+	height: 35px;
+	line-height: 200%;
+	display: inline-block;
+}
+
+ol > li{
+	float: left;
+	width: 200px;
+	border-right: 1px solid black;
+}
+
+ol > li:first-child{
+	border-left: 1px solid black;
+}
+
+ol > li > a{
+	text-decoration: none;
+	color: black;
+}
+
+ol > li:hover > a{
+	text-decoration: none;
+	color: white;
+}
+
+ol > li > a:hover{
+	text-decoration: none;
+	color: white;
+	background-color: rgba(0,0,0,0.8);
+}
+
+ol a{
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+
+ul{
+	margin-left: 30px;
+}
+
+ul.wlasciciele{
+	margin-left: 30px;
+	margin-top: -15px;
+}
+
+
+
+
+
+
