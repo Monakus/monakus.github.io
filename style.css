@@ -135,6 +135,8 @@ table.center{
 	margin-right: auto;
 }
 
-
+th{
+	text-align: center;
+}
 
 
