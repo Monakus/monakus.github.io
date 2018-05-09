@@ -129,7 +129,15 @@ ul.wlasciciele{
 	margin-top: -15px;
 }
 
+table {
+	style="width:100%"
+	align-left: auto;
+	align-right: auto;
+}
 
+th{
+	border-bottom: 1px;
+}
 
 
 
