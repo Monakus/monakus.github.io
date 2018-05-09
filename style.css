@@ -52,8 +52,9 @@ body{
 	text-align: justify;
 	border-radius: 25px;
 	padding: 11px 30px;
-	font-size: 30px;
+	font-size: 35px;
 	min-height: 612px;
+	line-height: 150%;
 }
 
 #tymczasowagaleria{
