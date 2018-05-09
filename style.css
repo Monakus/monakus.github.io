@@ -129,14 +129,10 @@ ul.wlasciciele{
 	margin-top: -15px;
 }
 
-table{
+table.center{
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-th{
-	border-bottom: 1px solid #fff;
 }
 
 
